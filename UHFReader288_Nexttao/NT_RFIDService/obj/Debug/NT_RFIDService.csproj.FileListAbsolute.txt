@@ -1,0 +1,75 @@
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\dmdll.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\log4net.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\UHFReader288.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\Install.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\Uninstaller.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\NT_RFIDService.exe.config
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\NT_RFIDService.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\Debug\NT_RFIDService.pdb
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\NT_RFIDService.exe.config
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\conf\log4net.xml
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\dmdll.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\log4net.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\UHFReader288.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\Install.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\Uninstaller.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\NT_RFIDService.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService\NT_RFIDService.pdb
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.csprojResolveAssemblyReference.cache
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.ProjectInstaller.resources
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.csproj.GenerateResource.Cache
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.pdb
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.exe.config
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\conf\log4net.xml
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\dmdll.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\log4net.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\UHFReader288.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\Install.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\Uninstaller.bat
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.pdb
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\conf\log4net.xml
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\dmdll.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\log4net.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\UHFReader288.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\Install.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\Uninstaller.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService1\NT_RFIDService.pdb
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\conf\log4net.xml
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\dmdll.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\log4net.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\UHFReader288.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\Install.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\Uninstaller.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\NT_RFIDService.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\NT_RFIDService.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_1\NT_RFIDService.pdb
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_\NT_RFIDService.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\conf\log4net.xml
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\dmdll.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\log4net.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\UHFReader288.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\Install.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\Uninstaller.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\NT_RFIDService.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\NT_RFIDService.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_2\NT_RFIDService.pdb
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\conf\log4net.xml
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\dmdll.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\log4net.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\UHFReader288.dll
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\Install.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\Uninstaller.bat
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\NT_RFIDService.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\NT_RFIDService.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\NT_RFIDService.pdb
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.ProjectInstaller.resources
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.csproj.GenerateResource.Cache
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.pdb
+Z:\DevicesDev\UHFReader288_Nexttao\NT_RFIDService\bin\NT_RFIDService_0\NT_RFIDService.exe.config
+Z:\DevicesDev\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.exe
+Z:\DevicesDev\UHFReader288_Nexttao\NT_RFIDService\obj\Debug\NT_RFIDService.pdb

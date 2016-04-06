@@ -1,0 +1,1 @@
+%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\NT_RFIDService_0\NT_RFIDService.exe

@@ -1,0 +1,14 @@
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\dmdll.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\log4net.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\conf\log4net.xml
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\UHFReader288.dll
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\App.config
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\UHFReader288_Nexttao.exe.config
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\UHFReader288_Nexttao.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\UHFReader288_Nexttao.pdb
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\obj\Debug\UHFReader288_Nexttao.exe
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\obj\Debug\UHFReader288_Nexttao.pdb
+C:\Users\Nexttao\documents\visual studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\obj\Debug\UHFReader288_Nexttao.csprojResolveAssemblyReference.cache
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\bin\Debug\UHFReader288_Nexttao.exe.config
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\obj\Debug\UHFReader288_Nexttao.exe
+C:\Users\Zhu Chuanqi\Documents\Visual Studio 2015\Projects\UHFReader288_Nexttao\UHFReader288_Nexttao\obj\Debug\UHFReader288_Nexttao.pdb
